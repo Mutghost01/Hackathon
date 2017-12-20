@@ -8,7 +8,7 @@
 ### 🙋 Kimler Katılabilir?
 Değer katmaktan ve üretmekten zevk alan herkes.
 ### 🏆 Ödüller Nedir?
-Bu maraton başka maraton. Öyle afilli, maddiyatta pahalı hediyelerimiz yok. Bizler beraber olmaktan, değer üretmekten gurur duyan bir topluluğuz. Bizim için dostluk ve üretmekten daha büyük bir ödül henüz dünyaya bulunmuyor.
+Bu maraton başka maraton. Öyle afilli, maddiyatta pahalı hediyelerimiz yok. Bizler beraber olmaktan, değer üretmekten gurur duyan bir topluluğuz. Bizim için dostluk ve üretmekten daha büyük bir ödül henüz dünyada bulunmuyor.
 Ancak yarışmaya katılanlara sosyal destek sağlamaya çalışıyoruz:
  - Sosyal medya üzerinden "Sosyal Medya Sponsoru" gönüllülerimiz, beğendikleri projeleri, @sosyalMedyaHesabını ve proje linkinizle birlikle takipçileri ile paylaşıyor.
  - 2Friday Youtube Kanalı üzerinden, hackathon'da üretilen projeler tanıtılıyor.
